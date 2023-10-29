@@ -1,3 +1,3 @@
-# ono-tebe-nado
-Проект "Оно тебе надо"
-https://github.com/Allexel22/ono-tebe-nado.git
+# posmotri_v_okno
+Проект "Посмотри в окно"
+https://github.com/Allexel22/posmotri_v_okno.git
