@@ -330,3 +330,7 @@ input[type="checkbox"]:checked + span {
   border-top: 2px solid #fff;
   border-bottom: 2px solid currentColor ;
 }
+
+.search-form__textfield:active {
+  border: none;
+}
